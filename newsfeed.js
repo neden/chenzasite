@@ -1,4 +1,10 @@
 {
+    "3":{
+        "title": "Company Announcement",
+        "date": "14/10/2020",
+        "tease": "Important Updates",
+        "content": "Site Updates"       
+    },
     "2":{
         "title": "Company Announcement",
         "date": "13/10/2020",
