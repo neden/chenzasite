@@ -1,20 +1,20 @@
 {
     "2":{
-        "title": "Thd",
+        "title": "Company Announcement",
         "date": "13/10/2020",
-        "tease": "Day 3",
-        "content": "Copyright (c) 2018 Copyright Holder All Rights Reserved."       
+        "tease": "Social Media",
+        "content": "Follow our social media accounts for latest news and updates"       
     },
     "1":{
-        "title": "Sec",
+        "title": "Company Announcement",
         "date": "12/10/2020",
-        "tease": "Day 2",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."       
+        "tease": "Incoming Game Announcement",
+        "content": "Word Flair - fun and clever puzzle game coming soon for Apple and Android platforms."       
     },
     "0":{
         "title": "Introduction",
         "date": "11/10/2020",
-        "tease": "Day 1 - Stay tuned for more news and announcements!",
+        "tease": "Hello World - Stay tuned for more news and announcements!",
         "content": true      
     }
 }
