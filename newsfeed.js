@@ -20,7 +20,7 @@
     "0":{
         "title": "Introduction",
         "date": "11/10/2020",
-        "tease": "Hello World - Stay tuned for more news and announcements!",
+        "tease": "Hello World - Stay tuned for more news and announcements! Stay tuned for more news and announcements! Stay tuned for more news and announcements! Stay tuned for more news and announcements! Stay tuned for more news and announcements! Stay tuned for more news and announcements!",
         "content": true      
     }
 }
