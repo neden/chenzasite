@@ -3,7 +3,7 @@
         "title": "Company Announcement",
         "date": "14/10/2020",
         "tease": "Important Updates",
-        "content": "<img src='https://imgur.com/ztoMOBL.png' style='object-fit: cover;' width='100%' height='100%'><br><font>Site Updates</font>"       
+        "content": "<img src='https://imgur.com/ztoMOBL.png' style='object-fit: cover;' width='100%' height='500px'><br><font>Site Updates</font>"       
     },
     "2":{
         "title": "Company Announcement",
