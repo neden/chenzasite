@@ -14,8 +14,8 @@
     "1":{
         "title": "Company Announcement",
         "date": "12/11/2020",
-        "tease": "Upcoming Game Announcement",
-        "content": "Stay tuned for our latest game, Word Flair - A fun and clever puzzle game coming soon for Android and iOS."
+        "tease": "Upcoming Game Announcement",            
+        "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/wordflairres@master/img/wordflair_font.png' style='object-fit: cover;' width='100%' height='100%'><br><font>Stay tuned for our latest game, Word Flair - A fun and clever puzzle game coming soon for Android and iOS.</font></div>"
     },
     "0":{
         "title": "Chenza Studios - Day 1",
