@@ -9,7 +9,7 @@
         "title": "Game Announcement",
         "date": "15/01/2020",
         "tease": "Out 02.24.2021",
-        "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/chenzasite@master/images/wordflair_bg_advert_bg_socmed2.png' style='object-fit: cover;' width='100%' height='100%'><br><font></font></div>"
+        "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/chenzasite@master/images/wordflair_bg_advert_bg_socmed3.png' style='object-fit: cover;' width='100%' height='100%'><br><font></font></div>"
     },
     "1":{
         "title": "Company Announcement",
