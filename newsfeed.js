@@ -2,7 +2,7 @@
     "3":{
         "title": "Game Announcement",
         "date": "24/02/2021",
-        "tease": "Word Flair is out now!",
+        "tease": "Word Flair Official Trailer - Game is out now!",
         "content": "<div class='fullcont'><iframe width='100%' height='600px' src='https://www.youtube.com/embed/opZaeDvVRwI' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe><br><font>Word Flair Official Trailer!</font></div>"
     },
     "2":{
