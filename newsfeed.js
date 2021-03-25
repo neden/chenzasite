@@ -14,13 +14,13 @@
     "1":{
         "title": "Game Announcement",
         "date": "12/11/2020",
-        "tease": "Word Flair!",            
+        "tease": "Exciting Reveal!",            
         "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/wordflairres@master/img/wordflair_font.png' style='object-fit: cover;' width='25%' height='100%'><br><font>Latest Project: Word Flair - A fun, casual and clever word game to be released on Android and iOS.</font></div>"
     },
     "0":{
         "title": "Greetings",
         "date": "11/10/2020",
         "tease": "Day 1",
-        "content": "Chenza Studios is a mobile-based game company. We are here to deliver you fun and casual gaming. Stay tuned for our more news on our upcoming games!"
+        "content": "Chenza Studios is a mobile-based game company. We are here to deliver you fun and casual gaming. Stay tuned for more news on our upcoming games!"
     }
 }
