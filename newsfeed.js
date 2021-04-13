@@ -9,13 +9,13 @@
         "title": "Game Announcement",
         "date": "15/01/2020",
         "tease": "Out 02.24.2021",
-        "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/chenzasite@master/images/wordflair_bg_advert_bg_socmed3.png' style='object-fit: cover;' width='100%' height='100%'><br><font></font></div>"
+        "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/chenzasite/images/wordflair_bg_advert_bg_socmed3.png' style='object-fit: cover;' width='100%' height='100%'><br><font></font></div>"
     },
     "1":{
         "title": "Game Announcement",
         "date": "12/11/2020",
         "tease": "Exciting Reveal!",            
-        "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/wordflairres@master/img/wordflair_font.png' style='object-fit: cover;' width='25%' height='100%'><br><font>Latest Project: Word Flair - A fun, casual and clever word game to be released on Android and iOS.</font></div>"
+        "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/wordflairres/img/wordflair_font.png' style='object-fit: cover;' width='25%' height='100%'><br><font>Latest Project: Word Flair - A fun, casual and clever word game to be released on Android and iOS.</font></div>"
     },
     "0":{
         "title": "Greetings",
