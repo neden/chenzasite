@@ -1,9 +1,9 @@
 {
     "3":{
         "title": "Game Announcement",
-        "date": "02/07/2021",
+        "date": "23/07/2021",
         "tease": "Word Flair Official Trailer - Game is out now!",
-        "content": "<div class='fullcont'><iframe width='100%' height='600px' src='https://www.youtube.com/embed/ki5qKuHtFIs' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe><br><font>Word Flair - Official Trailer!</font></div>"
+        "content": "<div class='fullcont'><iframe width='100%' height='600px' src='https://www.youtube.com/embed/5PL5KFx9V8g' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe><br><font>Word Flair - Official Trailer!</font></div>"
     },
     "2":{
         "title": "Game Announcement",
