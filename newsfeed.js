@@ -3,12 +3,12 @@
         "title": "Game Announcement",
         "date": "23/07/2021",
         "tease": "Word Flair Official Trailer - Game is out now!",
-        "content": "<div class='fullcont'><iframe width='100%' height='600px' src='https://www.youtube.com/embed/5PL5KFx9V8g' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe><br><font>Word Flair - Official Trailer!</font></div>"
+        "content": "<div class='fullcont'><iframe width='100%' height='600px' src='https://www.youtube.com/embed/NxvYhKxpcUw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe><br><font>Word Flair - Official Trailer!</font></div>"
     },
     "2":{
         "title": "Game Announcement",
         "date": "15/01/2021",
-        "tease": "Out 10.01.2021",
+        "tease": "Out 10.15.2021",
         "content": "<div class='fullcont'><img src='https://cdn.jsdelivr.net/gh/neden/chenzasite/images/wordflair_bg_advert_bg3f.png' style='object-fit: cover;' width='100%' height='100%'><br><font></font></div>"
     },
     "1":{
