@@ -3,7 +3,7 @@
         "title": "Game Announcement",
         "date": "23/07/2021",
         "tease": "Word Flair Official Trailer - Game is out now!",
-        "content": "<div class='fullcont'><iframe width='100%' height='600px' src='https://www.youtube.com/embed/NxvYhKxpcUw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe><br><font>Word Flair - Official Trailer!</font><br><br><p>You can <a href='https://play.google.com/store/apps/details?id=com.chozai.wiseword'>play it here!</a></p></div>"
+        "content": "<div class='fullcont'><iframe width='100%' height='600px' src='https://www.youtube.com/embed/NxvYhKxpcUw' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe><br><font>Word Flair - Official Trailer! <a href='https://play.google.com/store/apps/details?id=com.chozai.wiseword'>Play Now!</a></font></div>"
     },
     "2":{
         "title": "Game Announcement",
